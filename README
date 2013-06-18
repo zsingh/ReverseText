@@ -1,0 +1,9 @@
+A homework assignment from my Advnced Programming course.
+Written in C, the program takes two text files, one empty and
+one with text, and it reverses the text of one file and copies 
+the result to another file.
+
+Implemented using a hardcoded buffer size and file names.
+Includes sample text files.
+
+Can be used for reference.
